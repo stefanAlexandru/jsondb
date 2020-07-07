@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "telefon",
+      "description": "Vivamus sem quam, dignissim at tellus at, tincidunt facilisis lectus. Duis ac quam urna. Sed id elit sodales, porttitor justo eu, laoreet dolor. Nulla nec nulla vel lacus viverra pulvinar ornare ut lectus. Sed nec sodales arcu. Integer posuere, massa sit amet elementum fermentum, ipsum nibh ornare quam, porttitor feugiat est tellus eu mi. Pellentesque auctor aliquet dolor vulputate egestas. Nulla tincidunt lorem nec pharetra viverra. Donec placerat mollis viverra. Donec pharetra ultricies lorem id gravida. Nam mattis odio sed mollis ullamcorper. Mauris a urna sed lectus scelerisque lobortis."
+    },
+    {
+      "id": 2,
+      "title": "laptop",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce id consectetur odio. Phasellus et congue ligula. Duis massa libero, faucibus vel ligula sit amet, aliquet blandit ipsum. Nulla nec malesuada odio. Sed in dolor nibh. Sed convallis sodales nisi, sit amet tincidunt ante eleifend vitae. Mauris condimentum erat ac imperdiet ultrices. Sed dolor magna, condimentum sed sodales id, tincidunt in est. Sed ut viverra lorem. Phasellus ut placerat justo. Suspendisse quis elit sit amet ante laoreet ultrices ut feugiat tortor. Cras mauris sapien, efficitur a nunc ut, ornare imperdiet lorem. Nulla vel sollicitudin elit. Maecenas convallis ex commodo urna cursus mollis. Morbi et consequat augue, sit amet pharetra ligula. Curabitur ut mauris at ligula elementum placerat."
+    }
+    
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
